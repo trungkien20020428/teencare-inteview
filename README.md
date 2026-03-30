@@ -9,7 +9,7 @@ Mini Learning Management System cho phép quản lý Học sinh, Phụ huynh, L�
 | Backend   | Node.js · Express · TypeScript · TypeORM |
 | Database  | PostgreSQL 15                          |
 | Frontend  | Next.js 14 · Tailwind CSS              |
-| DevOps    | Docker · Docker Compose · GitHub Actions |
+| DevOps    | Docker · Docker Compose  |
 
 ---
 
